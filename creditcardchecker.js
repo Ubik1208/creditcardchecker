@@ -106,4 +106,4 @@ function invalidCardCompanies(companyList){
  
     }
 
-console.log(invalidCardCompanies(batch));
+// console.log(invalidCardCompanies(batch));
